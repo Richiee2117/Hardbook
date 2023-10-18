@@ -4,8 +4,7 @@
  */
 package mx.itson.hardBook.ui;
 
-import java.lang.ref.Reference;
-import java.time.Instant;
+
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -16,7 +15,7 @@ import mx.itson.hardBook.entities.User;
 
 /**
  *
- * @author USER
+ * @author Ricardo
  */
 public class Main {
 
